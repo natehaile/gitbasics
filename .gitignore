@@ -1,0 +1,4 @@
+#this is a comment
+
+#ignore all .txt files under project
+project/*.txt
